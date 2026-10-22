@@ -1,23 +1,15 @@
-# Fase 1 — NavInside
+# Evidencias de la Fase 1 — NavInside
 
-Esta carpeta reúne las evidencias de la definición inicial del proyecto **NavInside: sistema inteligente de navegación y posicionamiento en interiores para Hippocampus Resort**.
+Esta carpeta reúne los antecedentes de definición y evaluación inicial del proyecto NavInside para Hippocampus Resort & Club.
 
-## Archivos disponibles
+## Estructura
 
-| Archivo | Contenido |
-|---|---|
-| [Evidencias grupales (ZIP)](./Evidencias_Grupales-20260903T040257Z-1-001.zip) | Propuesta del proyecto, visión y roles, épicas, arquitectura del sistema, presentación y documentos de la guía de Fase 1. |
-| [Evidencias individuales (ZIP)](./Evidencias_Individuales-20260903T043223Z-1-001.zip) | Autoevaluaciones y diarios de reflexión individuales, organizados en el archivo comprimido. |
+- [Evidencias grupales](./Evidencias_Grupales/README.md): propuesta del proyecto, guía APT, informe formativo, épicas, visión y roles, arquitectura y presentación.
+- [Evidencias individuales](./Evidencias_Individuales/README.md): autoevaluaciones y diarios de reflexión de Gonzalo Allende, Cristian Culipichun y Pedro Navarro.
+- **ZIP grupal** y **ZIP individual**: paquetes originales conservados sin modificaciones.
 
-## Cómo revisar los documentos
+Los documentos también están disponibles por separado en las carpetas grupal e individual. Para revisar un documento, abre su archivo correspondiente; para descargar los paquetes originales, usa los ZIP.
 
-Los documentos están dentro de archivos ZIP. Para revisarlos, descarga el ZIP correspondiente y extráelo en tu equipo. GitHub muestra los archivos comprimidos para descarga, pero no presenta sus documentos internos como páginas individuales. Algunos asistentes de IA tampoco extraen o analizan automáticamente el contenido de un ZIP.
+## Alcance de esta carpeta
 
-Para que un asistente de IA revise un documento, extrae el archivo y adjunta el documento específico en la conversación, o usa una herramienta que permita cargar y descomprimir archivos ZIP.
-
-## Estructura de evidencias
-
-- **Grupales:** antecedentes y entregables compartidos del proyecto.
-- **Individuales:** antecedentes de reflexión y autoevaluación de cada integrante.
-
-Los ZIP originales se conservan como paquetes de entrega. Antes de compartir documentos individuales, confirma que su contenido y nivel de acceso sean adecuados para el destinatario.
+Las evidencias corresponden a la Fase 1 de definición del proyecto. Los archivos se agrupan para distinguir los entregables compartidos por el equipo de los antecedentes preparados por cada integrante.
