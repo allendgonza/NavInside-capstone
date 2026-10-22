@@ -22,6 +22,10 @@ Esta carpeta contiene las autoevaluaciones y diarios de reflexión de cada integ
 
 ## Archivos de origen sin asignación individual
 
-Los tres archivos con “(2)” en el nombre se conservan, pero no se cuentan como evidencias individuales de un integrante mientras no se confirme su autoría y versión. Entre ellos hay material repetido y pautas generales; revisa esta sección antes de usarlos en una entrega.
+Se conservan estos documentos de origen, pero no se contabilizan como evidencias individuales de un integrante mientras no se confirme su autoría y versión:
 
-Los ZIP originales de Fase 1 permanecen sin modificaciones.
+- [Autoevaluación de competencias (1.1)](./1.1_APT122_AutoevaluacionCompetenciasFase1.docx)
+- [Diario de reflexión (1.2)](./1.2_APT122_DiarioReflexionFase1.docx)
+- [Autoevaluación de Fase 1 (1.3)](./1.3_APT122_AutoevaluacionFase1.docx)
+
+Entre estos documentos hay material repetido y pautas generales; revisa su autoría y contenido antes de usarlos en una entrega. Los ZIP originales de Fase 1 permanecen sin modificaciones.
