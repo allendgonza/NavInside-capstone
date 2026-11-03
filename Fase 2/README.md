@@ -5,3 +5,4 @@
 ## Evidencias individuales
 
 - [Allende_Gonzalo_2.1_APT122_DiarioReflexionFase2.docx](./Evidencias_Individuales/Allende_Gonzalo_2.1_APT122_DiarioReflexionFase2.docx)
+- [Navarro_Pedro_2.1_APT122_DiarioReflexionFase2.docx](./Evidencias_Individuales/Navarro_Pedro_2.1_APT122_DiarioReflexionFase2.docx)
