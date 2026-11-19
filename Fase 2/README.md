@@ -1,7 +1,5 @@
 # Fase 2
 
-- [2.4_GuiaEstudiante_Fase2_DesarrolloProyecto_APT.docx](./2.4_GuiaEstudiante_Fase2_DesarrolloProyecto_APT.docx)
-
 ## Evidencias individuales
 
 [Abrir carpeta](./Evidencias_Individuales/)
@@ -14,6 +12,9 @@
 ## Evidencias grupales
 
 [Abrir carpeta](./Evidencias_Grupales/). Informes, presentaciones y registros del trabajo realizado como equipo.
+
+- [Guía de estudiantes Fase 2](./Evidencias_Grupales/2.4_GuiaEstudiante_Fase2_DesarrolloProyecto_APT.docx)
+- [Planilla de evaluación de avance Fase 2](./Evidencias_Grupales/PLANILLA%20DE%20EVALUACION%20AVANCE%20FASE%202%20%281%29.xlsx)
 
 ## Evidencias del proyecto
 
