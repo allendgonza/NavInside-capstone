@@ -4,8 +4,20 @@
 
 ## Evidencias individuales
 
+[Abrir carpeta](./Evidencias_Individuales/)
+
 - [Allende_Gonzalo_2.1_APT122_DiarioReflexionFase2.docx](./Evidencias_Individuales/Allende_Gonzalo_2.1_APT122_DiarioReflexionFase2.docx)
 - [Navarro_Pedro_2.1_APT122_DiarioReflexionFase2.docx](./Evidencias_Individuales/Navarro_Pedro_2.1_APT122_DiarioReflexionFase2.docx)
+
+- [Culipichun_Cristian_2.1_APT122_DiarioReflexionFase2.docx](./Evidencias_Individuales/Culipichun_Cristian_2.1_APT122_DiarioReflexionFase2.docx)
+
+## Evidencias grupales
+
+[Abrir carpeta](./Evidencias_Grupales/). Informes, presentaciones y registros del trabajo realizado como equipo.
+
+## Evidencias del proyecto
+
+[Abrir carpeta](./Evidencias_Proyecto/). Recursos técnicos, versiones y resultados verificables de NavInside Hippocampus.
 
 ## Tablero Kanban y backlog
 
